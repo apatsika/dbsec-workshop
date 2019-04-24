@@ -18,8 +18,16 @@
 - Open Oracle_Advanced_Security_Lab_Exercise_01 folder.
 
   ![](images/008.png)
+  
+- Now click the 01_Search_Strings_Plain_Text.sh script to verify we have unencrypted data in our datafile.
 
-- Open the 01_Encrypt_Sensitive_Information browser shortcut.
+<kbd><img width="500" alt="Screen Shot 2019-04-24 at 12 15 29 PM" src="https://user-images.githubusercontent.com/40471909/56676472-5f30d080-668c-11e9-8c03-c7eed3d1be06.png"></kbd>
+
+- You will get the following results in your terminal:
+
+<kbd><img width="500" alt="Screen Shot 2019-04-24 at 12 16 35 PM" src="https://user-images.githubusercontent.com/40471909/56676471-5f30d080-668c-11e9-8f1f-0f3c93205c31.png"></kbd>
+
+- Next click the 01_Encrypt_Sensitive_Information browser shortcut.
 
   ![](images/009.png)
 
